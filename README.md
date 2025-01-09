@@ -55,7 +55,7 @@ Examples:
 
 ----------------------------------------------------------------------
 
-NEXT STEPS:
+**NEXT STEPS:**
 We need assistance to:
 - 1. Fix the background image, ensuring it remains fixed or sticky relative to the parent window.
 - 2. Refine the mask's position to maintain alignment with the iframe window.
